@@ -60,7 +60,7 @@ This project was built to practice:
 
 ## Contact
 
-Created by [Chamika](https://github.com/chamika987)  
+Created by [Chamika Shehan](https://github.com/chamika987)  
 Feel free to suggest improvements or share feedback.
 
 ---
